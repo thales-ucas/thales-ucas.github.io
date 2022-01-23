@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>智能转售demo</title>
+</head>
+
+<body>
+  <div class="header">
+    <img src="images/logo.jpeg" />
+    <img src="images/tflogo.jpg" />
+  </div>
+  <h1>智能转售</h1>
+  <div class="description">
+    <h4>打开摄像头，开始扫描商品<button id="launch">启动</button>
+    </h4>
+  </div>
+
+  <div class="container">
+    <div id="webcam-wrapper">
+      <div id="loader"></div>
+      <div id="spinner">
+        <div class="rect1"></div>
+        <div class="rect2"></div>
+        <div class="rect3"></div>
+        <div class="rect4"></div>
+        <div class="rect5"></div>
+      </div>
+      <div id="rects"></div>
+      <video autoplay playsinline muted id="webcam"></video>
+    </div>
+  </div>
+
+  <script type="text/javascript" src="dist/bundle.js"></script>
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?0528a768a473de754ad408b884a48bc5";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>    
+</body>
+
+</html>

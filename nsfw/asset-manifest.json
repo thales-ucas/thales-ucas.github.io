@@ -1,0 +1,17 @@
+{
+  "main.css": "./static/css/main.781078ba.chunk.css",
+  "main.js": "./static/js/main.97a70516.chunk.js",
+  "main.js.map": "./static/js/main.97a70516.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.8c97409f.js",
+  "runtime~main.js.map": "./static/js/runtime~main.8c97409f.js.map",
+  "static/css/2.6cb907dc.chunk.css": "./static/css/2.6cb907dc.chunk.css",
+  "static/js/2.df98ac81.chunk.js": "./static/js/2.df98ac81.chunk.js",
+  "static/js/2.df98ac81.chunk.js.map": "./static/js/2.df98ac81.chunk.js.map",
+  "index.html": "./index.html",
+  "precache-manifest.be43de149185d19bb4e1aa69c1b1d45d.js": "./precache-manifest.be43de149185d19bb4e1aa69c1b1d45d.js",
+  "service-worker.js": "./service-worker.js",
+  "static/css/2.6cb907dc.chunk.css.map": "./static/css/2.6cb907dc.chunk.css.map",
+  "static/css/main.781078ba.chunk.css.map": "./static/css/main.781078ba.chunk.css.map",
+  "static/media/logo.jpeg": "./static/media/logo.1bf263d7.jpeg",
+  "static/media/rob.jpg": "./static/media/rob.bc2feeda.jpg"
+}
