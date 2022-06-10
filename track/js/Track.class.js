@@ -127,9 +127,9 @@ Track.main = function(container){
 		_clock = new THREE.Clock();
 		__camera.position.z = 10;
 		__car = new Track.Car('obj/car/', true);
-		__car.scale.x = 0.1;
-		__car.scale.y = 0.1;
-		__car.scale.z = 0.1;
+		__car.scale.x = 0.01;
+		__car.scale.y = 0.01;
+		__car.scale.z = 0.01;
 		__scene.add(__car);
 		__car.addEventListener(Track.Event.CAR_LOADED, function(e){_this.show()});
 	};
